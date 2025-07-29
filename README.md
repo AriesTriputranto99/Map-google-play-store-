@@ -2,7 +2,8 @@
 SSL.com
 Mitra keamanan tepercaya Anda!
 
- Detail Aplikasi
+ Detail Aplikasi.                 <img width="996" height="992" alt="Screenshot_20250720-205406~2" src="https://github.com/user-attachments/assets/9969a47c-2038-4095-b9db-9c7e142f33af" />
+
 {
 "Memodifikasi":{
  "Aplikasi":"Map google play";
